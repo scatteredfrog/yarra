@@ -33,8 +33,8 @@
         foreach ($reversed_array as $k =>$v) {
             echo "Element $k => $v<br />";
         }
-        ?>
-    </p>
+        echo "</p>";
+    ?>
 </body>
 
 </html>
