@@ -8,7 +8,7 @@
  */
 function yarra(array $to_reverse):array
 {
-    // First, we'll opy the array to ensure we have the correct number of elements.
+    // First, we'll copy the array to ensure we have the correct number of elements.
     $new_array = $to_reverse;
 
     // Figure out how many elements there are in the array.
